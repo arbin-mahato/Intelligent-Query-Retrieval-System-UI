@@ -2,6 +2,12 @@
 
 This is a user-friendly web interface built with Streamlit for the Intelligent Query Retrieval System. It provides a clean and interactive way to query large documents by connecting to a powerful, LLM-powered backend API.
 
+## 🚀 Live Demo
+
+You can interact with this backend through our deployed Streamlit web interface:
+
+[**➡️ Click here to view the live application**](https://intelligent-query-retrieval-system-ui.streamlit.app/)
+
 ![alt text](image.png)
 
 ## 🚀 Key Features
