@@ -2,7 +2,7 @@
 
 This is a user-friendly web interface built with Streamlit for the Intelligent Query Retrieval System. It provides a clean and interactive way to query large documents by connecting to a powerful, LLM-powered backend API.
 
-\<\!-- Optional: Add a screenshot of your running app --\>
+![alt text](image.png)
 
 ## 🚀 Key Features
 
